@@ -199,9 +199,9 @@ art. The full manifest — every mod, what the pack ships of its own, and what c
 free. Every one of them is named, with their licence and their page, in **[CREDITS.md](CREDITS.md)** — including
 **Matt Dillow (Maffhew)**, whose **Excalibur** resource pack is this pack's entire texture identity.
 
-**I built this project with extensive use of AI tools** across its code, writing, artwork, music, ambience
-and NPC voices. I set the design and direction, reviewed the output, and edited and integrated what went
-into the pack. I explain that workflow in **[AI-DISCLOSURE.md](AI-DISCLOSURE.md)**.
+**AI tools are used extensively throughout Bathyal** across its code, writing, artwork, music, ambience and NPC
+voices. The project's design and direction remain human-led, with generated work reviewed, edited and integrated
+before it enters the pack. The workflow is described in **[AI-DISCLOSURE.md](AI-DISCLOSURE.md)**.
 
 <a id="licence"></a>
 

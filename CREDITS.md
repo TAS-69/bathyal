@@ -180,8 +180,8 @@ A `.mrpack` is mostly a **shopping list, not a shipment**. Of the 109 mods above
   **Hud Compass** (BSD 3-Clause), **Myths of The Sea** (LGPL 3.0), **Sandbox Cutscenes** (GPL 3.0), and this
   project's own **BathyalGen**. All four are licensed in a way that permits it.
 
-**I only bundle work when its licence permits redistribution.** Where a mod could not be included on those
-terms, I removed it from the pack rather than carrying it: the four FTB mods were dropped for this reason, in
+**Only work whose licence permits redistribution is bundled.** Where a mod could not be included on those terms,
+it was removed from the pack rather than carried: the four FTB mods were dropped for this reason, in
 line with the [Feed The Beast modpack policy](https://www.feed-the-beast.com/policies/modpacks-mods-policy),
 which permits private use but requires public packs to fetch their jars rather than ship them.
 
@@ -190,15 +190,15 @@ at the top of this page.
 
 ## ◆ &nbsp;Voice and audio
 
-I created the NPC voice bank, music and ambience through the same **AI-assisted creative pipeline** used for
-Bathyal's other original content. I direct, select, edit, master and integrate the results; I do not present them
-as solely human performances or source recordings. The 48 voice takes cover all six races, male and female, and
-are mapped to idle, greeting, trade, refusal, hurt and death reactions at a consistent loudness.
+The NPC voice bank, music and ambience use the same **AI-assisted creative pipeline** as Bathyal's other original
+content. Source material is directed, selected, edited, mastered and integrated rather than presented as solely
+human performances or source recordings. The 48 voice takes cover all six races, male and female, and are mapped
+to idle, greeting, trade, refusal, hurt and death reactions at a consistent loudness.
 
 ## ◆ &nbsp;This project
 
-I created and direct **Bathyal**: its world, lore, characters, design writing, settlement and worldgen systems,
-art direction and the **BathyalGen** mod. © 2026 **TAS-69**.
+**Bathyal** is created and directed by **TAS-69**, including its world, lore, characters, design writing,
+settlement and worldgen systems, art direction and the **BathyalGen** mod. © 2026 **TAS-69**.
 
 See **[AI-DISCLOSURE.md](AI-DISCLOSURE.md)** for how this project was made, and **[LICENSE](LICENSE)** /
 **[LICENSE-CONTENT](LICENSE-CONTENT)** for what you may do with it.
