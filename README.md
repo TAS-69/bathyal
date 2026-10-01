@@ -7,7 +7,7 @@
 &nbsp;![Build](https://img.shields.io/badge/build-v0.10.88-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![Stage](https://img.shields.io/badge/stage-ALPHA-8A3E2F?style=for-the-badge&labelColor=0A0B0C)
 
-**[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases/latest)** &nbsp;·&nbsp;
+**[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases/tag/v0.10.88)** &nbsp;·&nbsp;
 **[◆ &nbsp;What's in it](releases/v0.10.88.md)** &nbsp;·&nbsp;
 **[✧ &nbsp;Credits](CREDITS.md)** &nbsp;·&nbsp;
 **[✦ &nbsp;AI disclosure](AI-DISCLOSURE.md)** &nbsp;·&nbsp;
@@ -169,7 +169,7 @@ when it turns — and sinking one leaves her cargo floating.
 
 ### How to install
 
-1. Download `Bathyal-0.10.88.mrpack` from **[the latest release](https://github.com/TAS-69/bathyal/releases/latest)**.
+1. Download `Bathyal-0.10.88.mrpack` from **[the current alpha release](https://github.com/TAS-69/bathyal/releases/tag/v0.10.88)**.
 2. In Prism Launcher: **Add Instance → Import → Modrinth pack**, and pick the file.
    In the Modrinth App: **Import → From file**.
 3. Let it resolve. Nearly all of the mods are fetched from their authors' own pages at this point, so the first import
