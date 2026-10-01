@@ -1,0 +1,37 @@
+Bathyal — Creative Content License (All Rights Reserved)
+
+Copyright (c) 2026 TAS-69. All Rights Reserved.
+
+SCOPE: This license governs the original CREATIVE CONTENT of the Bathyal project,
+including but not limited to:
+
+  - the world, setting, geography, history, and timeline;
+  - the lore, factions, religions, and worldbuilding;
+  - the races, characters, names, and story, including unreleased and
+    as-yet-unpublished material;
+  - the design writing and documentation;
+  - the art, logos, icons, and branding, including everything under `assets/`
+    other than `assets/build_svg.py`;
+  - and any of the above where it appears inside otherwise-code files (e.g. names
+    or lore text embedded in scripts, datapacks, or comments).
+
+The functional code, scripts, datapacks, configuration, and tooling are licensed
+separately and permissively under LICENSE (MIT); this file does not restrict them.
+
+TERMS: No part of the creative content described above may be copied, reproduced,
+modified, adapted, distributed, publicly displayed, or used to create derivative
+works, in whole or in part, by any means, without the express prior written
+permission of the copyright holder. All rights not expressly granted are reserved.
+
+You MAY, without separate permission:
+  - view this repository and its content for personal, non-commercial reference;
+  - play the resulting modpack when and if it is officially distributed, under the
+    terms provided with that distribution.
+
+THIRD-PARTY MATERIAL: Third-party mods, libraries, sounds, textures, and other
+assets bundled with or referenced by this modpack are NOT owned by the copyright
+holder and are NOT covered by this license; they remain under their own respective
+licenses and terms, and their inclusion in any distribution is subject to those
+terms and to the rules of the distribution platform (e.g. CurseForge, Modrinth).
+
+NO WARRANTY: The content is provided "as is", without warranty of any kind.

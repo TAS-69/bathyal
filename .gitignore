@@ -1,0 +1,12 @@
+# The package itself is a GitHub Release asset, not a repository file.
+# At ~131 MiB it is over GitHub's 100 MB per-file limit and must not be committed.
+*.mrpack
+
+# Working notes, not public content
+NOTES-BEFORE-PUBLISHING.md
+assets/_preview.html
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
