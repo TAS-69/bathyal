@@ -47,9 +47,9 @@ If you want a finished modpack, this is not one yet. If you want to watch one be
 
 <img src="assets/sec-world.svg" alt="The World" width="100%">
 
-<img src="assets/three-lands.jpg" alt="Veridia, Alderyn and Suraza" width="100%">
+<img src="assets/three-lands.svg" alt="The capitals of the Sylvan Isles, Valerian Empire and Dominion" width="100%">
 
-**Three lands and a drowned one.** **Alderyn**, the human empire — snow to taiga to temperate to plains.
+**Three lands and a drowned one.** **Alderyn** — snow to taiga to temperate to plains.
 **Veridia**, the jungle isles. **Suraza**, volcanic waste. And **Anthara** in the middle of them, under the water.
 Roughly **12.3 km** across, with the sea at **Y132**.
 
