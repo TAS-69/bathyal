@@ -4,11 +4,11 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-1B5E63?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![NeoForge](https://img.shields.io/badge/NeoForge-21.1.250-6B5236?style=for-the-badge&labelColor=0A0B0C)
-&nbsp;![Build](https://img.shields.io/badge/build-v0.10.88-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
+&nbsp;![Build](https://img.shields.io/badge/build-v0.10.91-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![Stage](https://img.shields.io/badge/stage-ALPHA-8A3E2F?style=for-the-badge&labelColor=0A0B0C)
 
-**[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases/tag/v0.10.88)** &nbsp;·&nbsp;
-**[◆ &nbsp;What's in it](releases/v0.10.88.md)** &nbsp;·&nbsp;
+**[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases)** &nbsp;·&nbsp;
+**[◆ &nbsp;Roadmap](ROADMAP.md)** &nbsp;·&nbsp;
 **[✧ &nbsp;Credits](CREDITS.md)** &nbsp;·&nbsp;
 **[✦ &nbsp;AI disclosure](AI-DISCLOSURE.md)** &nbsp;·&nbsp;
 **[▪ &nbsp;Licence](#licence)**
@@ -34,9 +34,9 @@ stratified and prejudiced by design; your race changes the price you pay and the
 **This is not a release, and it is not a product.** It is a work in progress made public so people can look at it.
 Please read this part before you download anything.
 
-- **Content is still minimal.** The world, the settlements and the systems below are real and generating, and of
-  **62 tracked systems 48 are built and wired** — but that is the engineering. The *content inside it* — quests,
-  dialogue, items, bosses, balance — is thin, and almost none of it has been played by anybody.
+- **Content is still incomplete.** The world, settlements and major systems below are real and generating. Of
+  **85 tracked system groups, 58 are implemented, 18 are partial and 9 are not implemented** — but that is the
+  engineering. Quest coverage, late-game content, balance and polish still need substantial work.
 - **Features may be broken.** Some systems are stubs. Some are wired in but untuned. Expect placeholder text,
   missing recipes, odd generation, unbalanced numbers and crashes.
 - **Worlds will not survive updates.** Identifiers, world format and progression change between builds. Treat any
@@ -104,7 +104,7 @@ food and hide above that has to be learnt before you can take it.
 
 **Twenty-six trades, levelled by doing them.** Each tree runs 27–42 nodes with exclusive keystone forks and six
 capstones, so two players in the same trade end up mechanically different rather than converging on one build.
-Nodes unlock harvests, recipes, stats and abilities. One tree stays hidden until it is found.
+Nodes unlock harvests, recipes, stats and abilities.
 
 **Magic is studied, not bought.** Three schools — Nature, Forge and Holy — each with lectern study, a bound first
 spell, a grimoire filled by the trees, mana wells and its own arts. People will judge you for casting.
@@ -169,7 +169,7 @@ when it turns — and sinking one leaves her cargo floating.
 
 ### How to install
 
-1. Download `Bathyal-0.10.88.mrpack` from **[the current alpha release](https://github.com/TAS-69/bathyal/releases/tag/v0.10.88)**.
+1. Download the latest `.mrpack` from **[GitHub Releases](https://github.com/TAS-69/bathyal/releases)**.
 2. In Prism Launcher: **Add Instance → Import → Modrinth pack**, and pick the file.
    In the Modrinth App: **Import → From file**.
 3. Let it resolve. Nearly all of the mods are fetched from their authors' own pages at this point, so the first import
@@ -179,9 +179,10 @@ when it turns — and sinking one leaves her cargo floating.
 ### What is in the package
 
 **109 mods** — 105 fetched from their authors' pages at install, 4 carried inside — the pack's own configuration
-and scripting, the custom **BathyalGen** mod (0.96.68), the Excalibur resource pack, and the pack's own audio and
+and scripting, the custom **BathyalGen** mod (0.96.71), the Excalibur resource pack, and the pack's own audio and
 art. The full manifest — every mod, what the pack ships of its own, and what changed — is in
-**[releases/v0.10.88.md](releases/v0.10.88.md)**.
+**[the current build notes](releases/v0.10.91.md)**. Current progress and remaining work are maintained in the
+**[public roadmap](ROADMAP.md)**.
 
 ### At a glance
 
@@ -189,7 +190,7 @@ art. The full manifest — every mod, what the pack ships of its own, and what c
 |---|---|---|---|
 | **World** 12.3 km, map-driven | **Settlements** 40 · 3,841 buildings | **Harbours** 21 · 71 piers | **Roads** 129 |
 | **Races** 6 playable | **Callings** 23 | **Skill trees** 26 | **Quests** 335 |
-| **Mods** 109 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.68 | **Build** v0.10.88 alpha |
+| **Mods** 109 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.71 | **Build** v0.10.91 alpha |
 
 <sub>Figures are read from the build itself and checked by an automated audit before each package is made.</sub>
 
