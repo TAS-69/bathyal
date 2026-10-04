@@ -49,12 +49,12 @@ voice line at a consistent level and map it to the correct reaction — idle, gr
 and the boundaries of the project. The written brief is the canonical source. When an AI session proposes something
 beyond it, that proposal is recorded as an open decision until it is accepted, changed or rejected.
 
-**The third-party mods are their authors' work.** The 109 mods assembled by this pack are outside the workflow
+**The third-party mods are their authors' work.** The third-party mods assembled by this pack are outside the workflow
 described above. Each one is credited individually in **[CREDITS.md](CREDITS.md)**.
 
 ## ◆ &nbsp;How it is checked
 
-Every package is gated by automated audits that read the generated world from disk and compare it with the design:
+Automated audits read generated-world data and compare it with the design:
 walls, doorways, stairs, harbour access, tree clearing and structure placement, along with checks that public claims
 still match the build. Hands-on playtesting supplies the other half of that process; most faults found during this
 alpha came from playing the build and reporting what was wrong.

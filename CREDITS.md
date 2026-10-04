@@ -47,7 +47,7 @@ Optional and **off by default**. It is not re-hosted: the launcher fetches it fr
 
 ## ◆ &nbsp;Mods
 
-**109 mods**, listed alphabetically. Licences are as declared by each author on the project page at the time this
+**110 mods**, listed alphabetically. Licences are as declared by each author on the project page at the time this
 list was generated; where an author has chosen a custom or all-rights-reserved licence, that is respected — see
 **[how the package distributes mods](#distribution)** below.
 
@@ -99,6 +99,7 @@ list was generated; where an author has chosen a custom or all-rights-reserved l
 | **Geckolib** | Gecko, DerToaster98, mchorse and 3 others | MIT | [Modrinth](https://modrinth.com/mod/geckolib) |
 | **GlitchCore** | Adubbz | All Rights Reserved | [Modrinth](https://modrinth.com/mod/glitchcore) |
 | **Guard Villagers** | seymourimadeit | Custom | [Modrinth](https://modrinth.com/mod/guard-villagers) |
+| **Handcrafted** | Alex Nijjar, CodexAdrian, MsRandom, ThatGravyBoat; art: Kekie6, Facu, Marc-IceBlade | Terrarium Licence | [Modrinth](https://modrinth.com/mod/handcrafted) |
 | **Hud Compass** | gigaherz | BSD 3-Clause | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/hud-compass) |
 | **ImmediatelyFast** | RaphiMC | LGPL-3.0-or-later | [Modrinth](https://modrinth.com/mod/immediatelyfast) |
 | **Ingenium API** | Caesius_Leo | MIT | [Modrinth](https://modrinth.com/mod/ingeniumapi) |
@@ -171,9 +172,9 @@ list was generated; where an author has chosen a custom or all-rights-reserved l
 
 ## ◆ &nbsp;How the package distributes mods
 
-A `.mrpack` is mostly a **shopping list, not a shipment**. Of the 109 mods above:
+A `.mrpack` is mostly a **shopping list, not a shipment**. Of the 110 mods above:
 
-- **105 are not redistributed at all.** The file records a name, a version and a hash; the launcher downloads each
+- **106 are not redistributed at all.** The file records a name, a version and a hash; the launcher downloads each
   jar from the author's own Modrinth page. Nothing of theirs is re-hosted here, and a mod whose licence forbids
   redistribution is handled this way for exactly that reason.
 - **4 jars are carried inside the package**, because they are not on Modrinth and cannot be resolved by hash:

@@ -4,7 +4,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-1B5E63?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![NeoForge](https://img.shields.io/badge/NeoForge-21.1.250-6B5236?style=for-the-badge&labelColor=0A0B0C)
-&nbsp;![Build](https://img.shields.io/badge/build-v0.10.91-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
+&nbsp;![Build](https://img.shields.io/badge/build-v0.10.99-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![Stage](https://img.shields.io/badge/stage-ALPHA-8A3E2F?style=for-the-badge&labelColor=0A0B0C)
 
 **[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases)** &nbsp;·&nbsp;
@@ -34,9 +34,9 @@ stratified and prejudiced by design; your race changes the price you pay and the
 **This is not a release, and it is not a product.** It is a work in progress made public so people can look at it.
 Please read this part before you download anything.
 
-- **Content is still incomplete.** The world, settlements and major systems below are real and generating. Of
-  **85 tracked system groups, 58 are implemented, 18 are partial and 9 are not implemented** — but that is the
-  engineering. Quest coverage, late-game content, balance and polish still need substantial work.
+- **Content is still incomplete.** The world, settlements and major systems below are real and generating. The
+  current implementation, controlled runtime checks and remaining acceptance are recorded in the
+  **[public roadmap](ROADMAP.md)**. Quest coverage, late-game content, balance and polish still need substantial work.
 - **Features may be broken.** Some systems are stubs. Some are wired in but untuned. Expect placeholder text,
   missing recipes, odd generation, unbalanced numbers and crashes.
 - **Worlds will not survive updates.** Identifiers, world format and progression change between builds. Treat any
@@ -72,15 +72,15 @@ the coastline the world builds.</sub>
 
 <img src="assets/city-plans.png" alt="The street plans of Valeria, Everbloom and Firehaven" width="100%">
 
-**40 settlements** — capitals, cities with districts and slums, towns and villages, **3,841 buildings** in all —
+**40 settlements** — capitals, cities with districts and slums, towns and villages, **3,113 buildings** in all —
 built with architecture that differs by culture, furnished interiors, walls that close with gatehouses and towers,
-farmland belts, and **129 roads** joining them. **21 harbours** carry **71 piers**, with railed quays, bollards,
+farmland belts, and **121 roads** joining them. **21 harbours** carry **76 piers**, with railed quays, bollards,
 cargo and cranes, and real port buildings ashore: harbourmaster's tower, customs house, storehouses, ropewalk,
 slipways, shipwrights, chandlery, sailors' inn, lighthouses.
 
-Streets are meant to be walked. Stairs appear wherever paving steps; every doorway, gateway and quay is joined to
-its road in one-block gradients, cut into the bank where it has to be; a walled town keeps a lane inside its
-rampart so no street simply ends at masonry. Shopfronts are shaped by trade — a baker's oven, a smith's forge bay,
+Streets are meant to be walked. Approaches use graded paths and stairs, diagonal gatehouses retain full-height
+curtains over their arches, and farm enclosures have exits. Controlled entrance and port-route checks pass; the
+latest layouts still need wider fresh-world playtesting. Shopfronts are shaped by trade — a baker's oven, a smith's forge bay,
 a tailor's jettied upper floor, a herbalist's glasshouse — and the squares have benches, handcarts, woodpiles,
 washing lines, tethered animals and lamps at night.
 
@@ -94,7 +94,8 @@ food and hide above that has to be learnt before you can take it.
 
 - **Temperature, thirst and localised injury**, with a harder injury model available.
 - **Water and fire the long way** — a leather waterskin, a twig-and-pebble fireplace, boiling to purify.
-- **Clothing, not armour** — garments worn in their own slots that insulate you against the climate you are in.
+- **Clothing and regional armour** — garments have their own slots; custom metal armour also provides climate
+  resistance. Mixed outfits and climates still need balance testing.
 - **Food spoils.** Seasons change what grows and when.
 - **Death costs you** — a grave with timed decay, dropped currency to recover, and a reputation that remembers.
 
@@ -104,7 +105,9 @@ food and hide above that has to be learnt before you can take it.
 
 **Twenty-six trades, levelled by doing them.** Each tree runs 27–42 nodes with exclusive keystone forks and six
 capstones, so two players in the same trade end up mechanically different rather than converging on one build.
-Nodes unlock harvests, recipes, stats and abilities.
+Nodes unlock harvests, recipes, stats and abilities. Paid craft apprenticeships help establish a discipline;
+respecialisation is costly. An explicit catalogue assigns installed blocks/items to their appropriate gates;
+third-party crafting and automation still need individual acceptance checks.
 
 **Magic is studied, not bought.** Three schools — Nature, Forge and Holy — each with lectern study, a bound first
 spell, a grimoire filled by the trees, mana wells and its own arts. People will judge you for casting.
@@ -120,12 +123,17 @@ choose at character creation also sets the rate at which you learn, and it says 
 **Standing works three ways at once**: your faction tier, your standing in a particular settlement, and what an
 individual thinks of you personally. All three shape prices, greetings and what work you are offered — and your race sets where you start.
 
+The custom dialogue cards use a close shoulder view, two-column choices and Back navigation. Unavailable actions
+show their requirements; the player and participant pause during interactions. Journal clicks toggle up to three
+compact tracked quests, with current main/character guidance marked in the world.
+
 Conversation varies by faction, mood and race, with local rumours, odd jobs and personal quests, and a place
 remembers what has happened in it. There is a currency, appointed shopkeepers with daily stock and regional
-catalogues, and private trade with any resident. There is also crime: a stealth system, pickpocketing and theft,
+catalogues, and private trade with eligible residents. Guards can be approached and bribed, but do not trade.
+There is also crime: a stealth system, pickpocketing and theft,
 and a watch that arrests you when you are seen — followed by a fine, a cell or a fight. Townsfolk are proper
 residents in trade dress, with names and voices that match who they are, and regional demographics that change as
-you travel.
+you travel. Separate trade icons keep full names readable; residents follow home, work and rest routines.
 
 **No vanilla monsters wander the overworld.** Bandits, predatory wildlife and stranger things take their place,
 and helping a settlement fight them off raises your standing there.
@@ -178,21 +186,21 @@ when it turns — and sinking one leaves her cargo floating.
 
 ### What is in the package
 
-**109 mods** — 105 fetched from their authors' pages at install, 4 carried inside — the pack's own configuration
-and scripting, the custom **BathyalGen** mod (0.96.71), the Excalibur resource pack, and the pack's own audio and
+**110 mods** — 106 fetched from their authors' pages at install, 4 carried inside — the pack's own configuration
+and scripting, the custom **BathyalGen** mod (0.96.79), the Excalibur resource pack, and the pack's own audio and
 art. The full manifest — every mod, what the pack ships of its own, and what changed — is in
-**[the current build notes](releases/v0.10.91.md)**. Current progress and remaining work are maintained in the
+**[the current build notes](releases/v0.10.99.md)**. Current progress and remaining work are maintained in the
 **[public roadmap](ROADMAP.md)**.
 
 ### At a glance
 
 | | | | |
 |---|---|---|---|
-| **World** 12.3 km, map-driven | **Settlements** 40 · 3,841 buildings | **Harbours** 21 · 71 piers | **Roads** 129 |
+| **World** 12.3 km, map-driven | **Settlements** 40 · 3,113 buildings | **Harbours** 21 · 76 piers | **Roads** 121 |
 | **Races** 6 playable | **Callings** 23 | **Skill trees** 26 | **Quests** 335 |
-| **Mods** 109 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.71 | **Build** v0.10.91 alpha |
+| **Mods** 110 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.79 | **Build** v0.10.99 alpha |
 
-<sub>Figures are read from the build itself and checked by an automated audit before each package is made.</sub>
+<sub>Figures are read from this public package. Implementation and testing boundaries are recorded in the roadmap.</sub>
 
 <img src="assets/sec-credits.svg" alt="Credits and disclosure" width="100%">
 
