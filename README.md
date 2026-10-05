@@ -26,6 +26,8 @@ settlements and roads. It builds the same canonical geography into playable bloc
 and slums, walls that close, harbours you can walk cargo onto, and roads that join them. The society you land in is
 stratified and prejudiced by design; your race changes the price you pay and the work you are offered.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 <p align="center">
 <a href="https://github.com/TAS-69/bathyal/wiki/The-World"><img src="https://raw.githubusercontent.com/wiki/TAS-69/bathyal/images/art/tile-the-world.svg" width="32%" alt="The World"></a>
 <a href="https://github.com/TAS-69/bathyal/wiki/History-and-Lore"><img src="https://raw.githubusercontent.com/wiki/TAS-69/bathyal/images/art/tile-history-and-lore.svg" width="32%" alt="History and Lore"></a>
