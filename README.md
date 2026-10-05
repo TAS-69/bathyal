@@ -26,12 +26,6 @@ settlements and roads. It builds the same canonical geography into playable bloc
 and slums, walls that close, harbours you can walk cargo onto, and roads that join them. The society you land in is
 stratified and prejudiced by design; your race changes the price you pay and the work you are offered.
 
-<img src="assets/three-lands.svg" alt="The capitals of the Sylvan Isles, Valerian Empire and Dominion" width="100%">
-
-### ▸ Explore the wiki
-
-The world, its peoples and their recorded history, every system and every skill tree are in the **[wiki](https://github.com/TAS-69/bathyal/wiki)** — spoiler-free.
-
 <p align="center">
 <a href="https://github.com/TAS-69/bathyal/wiki/The-World"><img src="https://raw.githubusercontent.com/wiki/TAS-69/bathyal/images/art/tile-the-world.svg" width="32%" alt="The World"></a>
 <a href="https://github.com/TAS-69/bathyal/wiki/History-and-Lore"><img src="https://raw.githubusercontent.com/wiki/TAS-69/bathyal/images/art/tile-history-and-lore.svg" width="32%" alt="History and Lore"></a>
@@ -40,6 +34,10 @@ The world, its peoples and their recorded history, every system and every skill 
 <a href="https://github.com/TAS-69/bathyal/wiki/Skill-Trees"><img src="https://raw.githubusercontent.com/wiki/TAS-69/bathyal/images/art/tile-skill-trees.svg" width="32%" alt="Skill Trees"></a>
 <a href="https://github.com/TAS-69/bathyal/wiki/Ships-and-the-Sea"><img src="https://raw.githubusercontent.com/wiki/TAS-69/bathyal/images/art/tile-ships-and-the-sea.svg" width="32%" alt="Ships and the Sea"></a>
 </p>
+
+### ▸ Explore the wiki
+
+The world, its peoples and their recorded history, every system and every skill tree are in the **[wiki](https://github.com/TAS-69/bathyal/wiki)** — spoiler-free.
 
 <img src="assets/alpha.svg" alt="Alpha test build — incomplete, unstable, published for public interest only" width="100%">
 
@@ -60,8 +58,6 @@ Please read this part before you download anything.
 - **There is no support and no schedule.** Bug reports are welcome and read. Nothing is promised.
 
 If you want a finished modpack, this is not one yet. If you want to watch one being built, you are in the right place.
-
-<img src="assets/depth.svg" alt="bathyal — of the zone below the reach of light and above the abyssal plain" width="100%">
 
 <img src="assets/sec-build.svg" alt="The Build" width="100%">
 
@@ -118,5 +114,7 @@ before it enters the pack. The workflow is described in **[AI-DISCLOSURE.md](AI-
 
 Open an issue. Crashes, generation faults, broken quests, wrong attribution and takedown requests are all welcome
 here — the last two are acted on without argument.
+
+<img src="assets/depth.svg" alt="bathyal — of the zone below the reach of light and above the abyssal plain" width="100%">
 
 <img src="assets/footer.svg" alt="The depths remain, and so do the stories." width="100%">
