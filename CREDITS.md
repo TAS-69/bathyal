@@ -60,7 +60,6 @@ list was generated; where an author has chosen a custom or all-rights-reserved l
 | **Animal Garden - Lion** | Aquarius.playz | All Rights Reserved | [Modrinth](https://modrinth.com/mod/animal-garden-lion) |
 | **Animal Garden - Snow Leopard** | Aquarius.playz | All Rights Reserved | [Modrinth](https://modrinth.com/mod/animal-garden-snow-leopard) |
 | **Antique Atlas 4** | sleepingdragoninn, lumiscosity, exaptations | LGPL-3.0-or-later | [Modrinth](https://modrinth.com/mod/antique-atlas-4) |
-| **Apotheosis** | Shadows-of-Fire | MIT | [Modrinth](https://modrinth.com/mod/apotheosis) |
 | **Apothic Attributes** | Shadows-of-Fire | MIT | [Modrinth](https://modrinth.com/mod/apothic-attributes) |
 | **Apothic-Enchanting** | Shadows-of-Fire | MIT | [Modrinth](https://modrinth.com/mod/apothic-enchanting) |
 | **Apothic-Spawners** | Shadows-of-Fire | MIT | [Modrinth](https://modrinth.com/mod/apothic-spawners) |
@@ -148,6 +147,7 @@ list was generated; where an author has chosen a custom or all-rights-reserved l
 | **Shippy Ships** | Caesius_Leo | Custom (limited rights granted) | [Modrinth](https://modrinth.com/mod/shippy-ships) |
 | **Sinytra Connector** | — | MIT | [Modrinth](https://modrinth.com/mod/connector) |
 | **Sodium** | — | PolyForm Shield 1.0.0 | [Modrinth](https://modrinth.com/mod/sodium) |
+| **Sol's Item Rarity** | solmochi | All Rights Reserved | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sols-item-rarity) |
 | **Spoiled** | Mrbysco, ShyNieke | MIT | [Modrinth](https://modrinth.com/mod/spoiled) |
 | **Structory** | catter1 | Stardust Labs License | [Modrinth](https://modrinth.com/mod/structory) |
 | **SuperMartijn642's Core Lib** | SuperMartijn642 | All Rights Reserved | [Modrinth](https://modrinth.com/mod/supermartijn642s-core-lib) |
@@ -175,8 +175,9 @@ list was generated; where an author has chosen a custom or all-rights-reserved l
 A `.mrpack` is mostly a **shopping list, not a shipment**. Of the 110 mods above:
 
 - **106 are not redistributed at all.** The file records a name, a version and a hash; the launcher downloads each
-  jar from the author's own Modrinth page. Nothing of theirs is re-hosted here, and a mod whose licence forbids
-  redistribution is handled this way for exactly that reason.
+  jar from the author's own page — 105 from Modrinth, and **Sol's Item Rarity**, which is all rights reserved and
+  not on Modrinth, from its author's own CurseForge file. Nothing of theirs is re-hosted here, and a mod whose
+  licence forbids redistribution is handled this way for exactly that reason.
 - **4 jars are carried inside the package**, because they are not on Modrinth and cannot be resolved by hash:
   **Hud Compass** (BSD 3-Clause), **Myths of The Sea** (LGPL 3.0), **Sandbox Cutscenes** (GPL 3.0), and this
   project's own **BathyalGen**. All four are licensed in a way that permits it.

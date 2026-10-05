@@ -4,7 +4,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-1B5E63?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![NeoForge](https://img.shields.io/badge/NeoForge-21.1.250-6B5236?style=for-the-badge&labelColor=0A0B0C)
-&nbsp;![Build](https://img.shields.io/badge/build-v0.10.99-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
+&nbsp;![Build](https://img.shields.io/badge/build-v0.11.18-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![Stage](https://img.shields.io/badge/stage-ALPHA-8A3E2F?style=for-the-badge&labelColor=0A0B0C)
 
 **[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases)** &nbsp;·&nbsp;
@@ -89,8 +89,8 @@ washing lines, tethered animals and lamps at night.
 <img src="assets/sec-survival.svg" alt="Survival" width="100%">
 
 Warmth, thirst and injury are always pressing, and four seasons move every climate band against you. You start
-with nothing and no training: untrained hands get twigs, pebbles, flowers and small game, and every tier of block,
-food and hide above that has to be learnt before you can take it.
+with nothing and no training: twigs, pebbles, flowers and small game are free to anyone, and every block, food
+and hide above that can be worked untrained only slowly and for a fraction of the yield until it is learnt.
 
 - **Temperature, thirst and localised injury**, with a harder injury model available.
 - **Water and fire the long way** — a leather waterskin, a twig-and-pebble fireplace, boiling to purify.
@@ -105,9 +105,12 @@ food and hide above that has to be learnt before you can take it.
 
 **Twenty-six trades, levelled by doing them.** Each tree runs 27–42 nodes with exclusive keystone forks and six
 capstones, so two players in the same trade end up mechanically different rather than converging on one build.
-Nodes unlock harvests, recipes, stats and abilities. Paid craft apprenticeships help establish a discipline;
+Nodes bring full-speed, full-yield harvests, recipes, stats and abilities; work you have not trained for is allowed
+but costs three times the time, most of the yield and half the experience. Paid craft apprenticeships help establish a discipline;
 respecialisation is costly. An explicit catalogue assigns installed blocks/items to their appropriate gates;
-third-party crafting and automation still need individual acceptance checks.
+third-party crafting and automation still need individual acceptance checks. Every tool, weapon and armour piece
+receives a quality the moment it is obtained, its bonuses rolled one at a time — some of them flaws — with nothing
+to activate.
 
 **Magic is studied, not bought.** Three schools — Nature, Forge and Holy — each with lectern study, a bound first
 spell, a grimoire filled by the trees, mana wells and its own arts. People will judge you for casting.
@@ -187,9 +190,9 @@ when it turns — and sinking one leaves her cargo floating.
 ### What is in the package
 
 **110 mods** — 106 fetched from their authors' pages at install, 4 carried inside — the pack's own configuration
-and scripting, the custom **BathyalGen** mod (0.96.79), the Excalibur resource pack, and the pack's own audio and
+and scripting, the custom **BathyalGen** mod (0.96.94), the Excalibur resource pack, and the pack's own audio and
 art. The full manifest — every mod, what the pack ships of its own, and what changed — is in
-**[the current build notes](releases/v0.10.99.md)**. Current progress and remaining work are maintained in the
+**[the current build notes](releases/v0.11.18.md)**. Current progress and remaining work are maintained in the
 **[public roadmap](ROADMAP.md)**.
 
 ### At a glance
@@ -198,7 +201,7 @@ art. The full manifest — every mod, what the pack ships of its own, and what c
 |---|---|---|---|
 | **World** 12.3 km, map-driven | **Settlements** 40 · 3,113 buildings | **Harbours** 21 · 76 piers | **Roads** 121 |
 | **Races** 6 playable | **Callings** 23 | **Skill trees** 26 | **Quests** 335 |
-| **Mods** 110 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.79 | **Build** v0.10.99 alpha |
+| **Mods** 110 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.94 | **Build** v0.11.18 alpha |
 
 <sub>Figures are read from this public package. Implementation and testing boundaries are recorded in the roadmap.</sub>
 
