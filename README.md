@@ -8,7 +8,8 @@
 &nbsp;![Stage](https://img.shields.io/badge/stage-ALPHA-8A3E2F?style=for-the-badge&labelColor=0A0B0C)
 
 **[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases)** &nbsp;·&nbsp;
-**[◆ &nbsp;Roadmap](ROADMAP.md)** &nbsp;·&nbsp;
+**[▤ &nbsp;Wiki](https://github.com/TAS-69/bathyal/wiki)** &nbsp;·&nbsp;
+**[◆ &nbsp;Roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)** &nbsp;·&nbsp;
 **[✧ &nbsp;Credits](CREDITS.md)** &nbsp;·&nbsp;
 **[✦ &nbsp;AI disclosure](AI-DISCLOSURE.md)** &nbsp;·&nbsp;
 **[▪ &nbsp;Licence](#licence)**
@@ -36,7 +37,7 @@ Please read this part before you download anything.
 
 - **Content is still incomplete.** The world, settlements and major systems below are real and generating. The
   current implementation, controlled runtime checks and remaining acceptance are recorded in the
-  **[public roadmap](ROADMAP.md)**. Quest coverage, late-game content, balance and polish still need substantial work.
+  **[roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)** on the wiki. Quest coverage, late-game content, balance and polish still need substantial work.
 - **Features may be broken.** Some systems are stubs. Some are wired in but untuned. Expect placeholder text,
   missing recipes, odd generation, unbalanced numbers and crashes.
 - **Worlds will not survive updates.** Identifiers, world format and progression change between builds. Treat any
@@ -103,7 +104,7 @@ and hide above that can be worked untrained only slowly and for a fraction of th
 
 <img src="assets/sec-progress.svg" alt="Progression" width="100%">
 
-**Twenty-six trades, levelled by doing them.** Each tree runs 27–42 nodes with exclusive keystone forks and six
+**Twenty-five trades, levelled by doing them.** Each tree runs 27–42 nodes with exclusive keystone forks and six
 capstones, so two players in the same trade end up mechanically different rather than converging on one build.
 Nodes bring full-speed, full-yield harvests, recipes, stats and abilities; work you have not trained for is allowed
 but costs three times the time, most of the yield and half the experience. Paid craft apprenticeships help establish a discipline;
@@ -193,14 +194,15 @@ when it turns — and sinking one leaves her cargo floating.
 and scripting, the custom **BathyalGen** mod (0.96.94), the Excalibur resource pack, and the pack's own audio and
 art. The full manifest — every mod, what the pack ships of its own, and what changed — is in
 **[the current build notes](releases/v0.11.18.md)**. Current progress and remaining work are maintained in the
-**[public roadmap](ROADMAP.md)**.
+**[roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)**, and everything else about the pack — the world, its peoples, every system
+and every skill tree — in the **[wiki](https://github.com/TAS-69/bathyal/wiki)**.
 
 ### At a glance
 
 | | | | |
 |---|---|---|---|
 | **World** 12.3 km, map-driven | **Settlements** 40 · 3,113 buildings | **Harbours** 21 · 76 piers | **Roads** 121 |
-| **Races** 6 playable | **Callings** 23 | **Skill trees** 26 | **Quests** 335 |
+| **Races** 6 playable | **Callings** 23 | **Skill trees** 25 | **Quests** 335 |
 | **Mods** 110 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.94 | **Build** v0.11.18 alpha |
 
 <sub>Figures are read from this public package. Implementation and testing boundaries are recorded in the roadmap.</sub>
