@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 A large, map-driven world where survival is the baseline, every craft has to be learned before it can be used,
 and geography shapes how its societies live.
@@ -39,6 +39,8 @@ stratified and prejudiced by design; your race changes the price you pay and the
 
 The world, its peoples and their recorded history, every system and every skill tree are in the **[wiki](https://github.com/TAS-69/bathyal/wiki)** — spoiler-free.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 <img src="assets/alpha.svg" alt="Alpha test build — incomplete, unstable, published for public interest only" width="100%">
 
 <a id="alpha"></a>
@@ -58,6 +60,8 @@ Please read this part before you download anything.
 - **There is no support and no schedule.** Bug reports are welcome and read. Nothing is promised.
 
 If you want a finished modpack, this is not one yet. If you want to watch one being built, you are in the right place.
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 <img src="assets/sec-build.svg" alt="The Build" width="100%">
 
@@ -91,6 +95,8 @@ If you want a finished modpack, this is not one yet. If you want to watch one be
 
 <sub>Figures are read from this public package. Every mod and what changed: **[the current build notes](releases/v0.11.18.md)** · what is built and tested: **[the roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)**.</sub>
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 <img src="assets/sec-credits.svg" alt="Credits and disclosure" width="100%">
 
 **This pack is a curation first.** Most of what you will touch was written by other people and given away for
@@ -101,6 +107,8 @@ free. Every one of them is named, with their licence and their page, in **[CREDI
 voices. The project's design and direction remain human-led, with generated work reviewed, edited and integrated
 before it enters the pack. The workflow is described in **[AI-DISCLOSURE.md](AI-DISCLOSURE.md)**.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 <a id="licence"></a>
 
 ### ▪ Licence
@@ -110,10 +118,14 @@ before it enters the pack. The workflow is described in **[AI-DISCLOSURE.md](AI-
 - **Third-party mods, the resource pack and the shader** keep their own licences, which are listed per item in
   **[CREDITS.md](CREDITS.md)**. This project is non-commercial and carries no monetised links.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 ### ▪ Reporting something
 
 Open an issue. Crashes, generation faults, broken quests, wrong attribution and takedown requests are all welcome
 here — the last two are acted on without argument.
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 <img src="assets/depth.svg" alt="bathyal — of the zone below the reach of light and above the abyssal plain" width="100%">
 
