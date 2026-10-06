@@ -27,6 +27,10 @@ formatting), **TC** (title logo collaboration, orb painting), **Brakrel** (pack 
 **Sven_Smorgasborg** (panorama map), **XSSheep** (kitchenware painting), **Crescendo** (painting),
 **Hoodoo** (cloud skybox), **Mizuno** (potted fern, grass clovers).
 
+**Bathyal UI** — the project's own small resource pack, loaded above Excalibur. It recolours vanilla's container
+screens (chests, crafting table, furnaces and the like) into the pack's window palette, and changes nothing of
+Excalibur's: turn it off under *Resource Packs* to see Excalibur's own container art.
+
 ## ◆ &nbsp;Shader
 
 **Nostalgia** v5.1 — by **RRe36** · **[Modrinth](https://modrinth.com/shader/nostalgia-shader)**

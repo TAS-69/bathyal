@@ -4,7 +4,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-1B5E63?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![NeoForge](https://img.shields.io/badge/NeoForge-21.1.250-6B5236?style=for-the-badge&labelColor=0A0B0C)
-&nbsp;![Build](https://img.shields.io/badge/build-v0.11.18-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
+&nbsp;![Build](https://img.shields.io/badge/build-v0.11.22-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![Stage](https://img.shields.io/badge/stage-ALPHA-8A3E2F?style=for-the-badge&labelColor=0A0B0C)
 
 **[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases)** &nbsp;·&nbsp;
@@ -93,9 +93,9 @@ If you want a finished modpack, this is not one yet. If you want to watch one be
 |---|---|---|---|
 | **World** 12.3 km, map-driven | **Settlements** 40 · 3,113 buildings | **Harbours** 21 · 76 piers | **Roads** 121 |
 | **Races** 6 playable | **Callings** 23 | **Skill trees** 25 | **Quests** 335 |
-| **Mods** 110 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.94 | **Build** v0.11.18 alpha |
+| **Mods** 110 | **Sea level** Y132 | **Custom mod** BathyalGen 0.96.98 | **Build** v0.11.22 alpha |
 
-<sub>Figures are read from this public package. Every mod and what changed: **[the current build notes](releases/v0.11.18.md)** · what is built and tested: **[the roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)**.</sub>
+<sub>Figures are read from this public package. Every mod and what changed: **[the current build notes](releases/v0.11.22.md)** · what is built and tested: **[the roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)**.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
