@@ -51,7 +51,7 @@ Optional and **off by default**. It is not re-hosted: the launcher fetches it fr
 
 ## ◆ &nbsp;Mods
 
-**110 mods**, listed alphabetically. Licences are as declared by each author on the project page at the time this
+**111 mods**, listed alphabetically. Licences are as declared by each author on the project page at the time this
 list was generated; where an author has chosen a custom or all-rights-reserved licence, that is respected — see
 **[how the package distributes mods](#distribution)** below.
 
@@ -159,6 +159,7 @@ list was generated; where an author has chosen a custom or all-rights-reserved l
 | **Surveyor Map Framework** | sleepingdragoninn, exaptations | LGPL-3.0-or-later | [Modrinth](https://modrinth.com/mod/surveyor) |
 | **Tide 2** | Lightning64 | MPL-2.0 | [Modrinth](https://modrinth.com/mod/tide) |
 | **Towns and Towers** | Biban_Auriu, Kubek, Cristelknight | CC-BY-NC-SA-4.0 | [Modrinth](https://modrinth.com/mod/towns-and-towers) |
+| **Traveler's Backpack** | Tiviacz1337 | LGPL-3.0-only | [Modrinth](https://modrinth.com/mod/travelersbackpack) |
 | **Traveler's Titles** | YUNGNICKYOUNG, Drullkus | LGPL-3.0-only | [Modrinth](https://modrinth.com/mod/travelers-titles) |
 | **VortyLib** | vortianski | MIT | [Modrinth](https://modrinth.com/mod/vortylib) |
 | **Waystones** | BlayTheNinth | All Rights Reserved | [Modrinth](https://modrinth.com/mod/waystones) |
@@ -176,9 +177,9 @@ list was generated; where an author has chosen a custom or all-rights-reserved l
 
 ## ◆ &nbsp;How the package distributes mods
 
-A `.mrpack` is mostly a **shopping list, not a shipment**. Of the 110 mods above:
+A `.mrpack` is mostly a **shopping list, not a shipment**. Of the 111 mods above:
 
-- **107 are not redistributed at all.** The file records a name, a version and a hash; the launcher downloads each
+- **108 are not redistributed at all.** The file records a name, a version and a hash; the launcher downloads each
   jar from its author's Modrinth page. Nothing of theirs is re-hosted here, and the mods whose licence forbids
   redistribution — **Sol's Item Rarity** and **Myths of The Sea**, both all rights reserved — are handled this way
   for exactly that reason.

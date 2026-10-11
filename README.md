@@ -4,7 +4,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.1-1B5E63?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![NeoForge](https://img.shields.io/badge/NeoForge-21.1.250-6B5236?style=for-the-badge&labelColor=0A0B0C)
-&nbsp;![Build](https://img.shields.io/badge/build-v0.11.31-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
+&nbsp;![Build](https://img.shields.io/badge/build-v0.11.43-2A6F7F?style=for-the-badge&labelColor=0A0B0C)
 &nbsp;![Stage](https://img.shields.io/badge/stage-ALPHA-8A3E2F?style=for-the-badge&labelColor=0A0B0C)
 
 **[◈ &nbsp;Download the build](https://github.com/TAS-69/bathyal/releases)** &nbsp;·&nbsp;
@@ -18,7 +18,7 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-A large, map-driven world where survival is the baseline, every craft has to be learned before it can be used,
+A large, map-driven world where survival is the baseline, every trade takes practice,
 and geography shapes how its societies live.
 
 Bathyal's custom world generator combines a multi-layered map system for terrain, coastlines, biomes, climates,
@@ -93,9 +93,9 @@ If you want a finished modpack, this is not one yet. If you want to watch one be
 |---|---|---|---|
 | **World** 12.3 km, map-driven | **Settlements** 40 · 3,106 buildings | **Harbours** 21 · 71 piers | **Roads** 121 |
 | **Races** 6 playable | **Callings** 23 | **Skill trees** 25 | **Quests** 335 |
-| **Mods** 110 | **Sea level** Y132 | **Custom mod** BathyalGen 0.97.6 | **Build** v0.11.31 alpha |
+| **Mods** 111 | **Sea level** Y132 | **Custom mod** BathyalGen 0.97.18 | **Build** v0.11.43 alpha |
 
-<sub>Figures are read from this public package. Every mod and what changed: **[the current build notes](releases/v0.11.31.md)** · what is built and tested: **[the roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)**.</sub>
+<sub>Figures are read from this public package. Every mod and what changed: **[the current build notes](releases/v0.11.43.md)** · what is built and tested: **[the roadmap](https://github.com/TAS-69/bathyal/wiki/Roadmap)**.</sub>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
